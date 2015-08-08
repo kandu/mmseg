@@ -1,0 +1,7 @@
+name= "mmseg"
+version = "0.1.1"
+description = "a word identification system based on the maximum matching algorithm"
+requires="core_kernel,trie,camomile"
+archive(byte)= "mmseg.cma"
+archive(native)= "mmmseg.cmxa"
+
